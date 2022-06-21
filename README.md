@@ -1,1 +1,1 @@
-My dir readme
+manual update
